@@ -6,12 +6,23 @@ Free My Little Pony Themed Icons for the Elgato Stream Deck Software.
 
 
 <h2 align="center">Download</h2>
-1. At the top of the page, Click On "Code"
-2. In the dropdown menu, click On "Download Zip"
-<img width="453" height="383" alt="image" src="https://github.com/user-attachments/assets/b7366101-f93f-472f-82a4-6cc7048529b0" />
+<p>1. At the top of the page, Click on "Code"</p>
+<p>2. In the dropdown menu, Click on "Download Zip"</p>
+
+<div align="center">
+  <img width="453" height="383" alt="image" src="https://github.com/user-attachments/assets/b7366101-f93f-472f-82a4-6cc7048529b0" />
+</div>
 
 
+<!--
+| <img width="128" height="128" alt="image" src="https://github.com/clippercroix/MLP-Stream-Deck-Icons/blob/main/Actions/follow%20cursor.png" /> | <img width="128" height="128" alt="image" src="https://github.com/clippercroix/MLP-Stream-Deck-Icons/blob/main/Stream%20Deck%20Pages/record.png" />   | <img width="128" height="128" alt="image" src="https://github.com/clippercroix/MLP-Stream-Deck-Icons/blob/main/Stream%20Deck%20Pages/camera.png" /> |
+| :---         |     :---:      |          ---: |
+| Text         |  More Text    |  $100.00      |
+| Easy         |   Medium      |   $20.50      |
 
+<h2 align="center">Preview</h2>
+  -->
+<h2 align="center">Legal</h2>
 Disclaimer: This project is an independent fan-made creation and is not affiliated with, endorsed by, sponsored by, or otherwise approved by Corsair Memory, Inc. (Elgato) or Hasbro, Inc.
 
 Elgato and Stream Deck are registered trademarks of Corsair Memory, Inc.

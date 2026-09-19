@@ -5,6 +5,10 @@
 Free My Little Pony Themed Icons for the Elgato Stream Deck Software.
 
 
+<h2 align="center">Download</h2>
+1. At the top of the page, Click On "Code"
+2. In the dropdown menu, click On "Download Zip"
+<img width="453" height="383" alt="image" src="https://github.com/user-attachments/assets/b7366101-f93f-472f-82a4-6cc7048529b0" />
 
 
 
